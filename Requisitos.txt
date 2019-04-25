@@ -1,0 +1,23 @@
+1. O jogo tem um tabuleiro:
+   a. O tabuleiro possuirá 32 casas;
+   b. Apenas 16 são acessíveis às peças;
+   c. Uma sim e uma não;
+
+2. O jogo possui 24 peças:
+   a. Sendo 12 de cada jogador;
+   b. Essas peças são diferenciadas pelas cores;
+   c. As peças se movem na diagonal;
+   d. Uma casa por vez, com excessão de qualndo for pegar uma peça do oponente;
+
+
+3. O jogo possui 2 jogadores:
+   a. Cada jogador pode mover um peça por vez;
+
+4. Será o fim do jogo quando:
+   a. Um dos jogadores perder todas as peças;
+
+5. Dama:
+   a. Quando a peça chegar na última linha da área do jogador oponente, torna-se dama;
+   b. Sendo dama, pode andar quantas casas quiser, desde que na diagonal;
+
+
